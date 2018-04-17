@@ -1,0 +1,54 @@
+c:\users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\bin\Debug\Final smis.exe.config
+c:\users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\obj\Debug\Final smis.csprojResolveAssemblyReference.cache
+c:\users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.AboutSMIS.resources
+c:\users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.login.resources
+c:\users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.MainInterface.resources
+c:\users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.Properties.Resources.resources
+c:\users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\obj\Debug\Final smis.csproj.GenerateResource.Cache
+c:\users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\bin\Debug\Final smis.exe
+c:\users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\bin\Debug\Final smis.pdb
+c:\users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\bin\Debug\MySql.Data.dll
+c:\users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\obj\Debug\Final smis.exe
+c:\users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\obj\Debug\Final smis.pdb
+C:\Users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.AddStudent.resources
+C:\Users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.AddTeacher.resources
+C:\Users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.ManageStudents.resources
+C:\Users\trevo\onedrive\documents\visual studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.ManageTeachers.resources
+C:\Users\trevo\OneDrive\Documents\Visual Studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.EnterExam.resources
+C:\Users\trevo\OneDrive\Documents\Visual Studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.Manage_fees.resources
+C:\Users\trevo\OneDrive\Documents\Visual Studio 2015\Projects\Final smis\Final smis\bin\Debug\MaterialSkin.dll
+C:\Users\trevo\OneDrive\Documents\Visual Studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.ManageUsers.resources
+C:\Users\trevo\OneDrive\Documents\Visual Studio 2015\Projects\Final smis\Final smis\bin\Debug\MetroFramework.Design.dll
+C:\Users\trevo\OneDrive\Documents\Visual Studio 2015\Projects\Final smis\Final smis\bin\Debug\MetroFramework.dll
+C:\Users\trevo\OneDrive\Documents\Visual Studio 2015\Projects\Final smis\Final smis\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\trevo\OneDrive\Documents\Visual Studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.Main.resources
+C:\Users\trevo\OneDrive\Documents\Visual Studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.MDIParent1.resources
+C:\Users\trevo\OneDrive\Documents\Visual Studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.ViewTeacher.resources
+C:\Users\trevo\OneDrive\Documents\Visual Studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.FindStudentAdm.resources
+C:\Users\trevo\OneDrive\Documents\Visual Studio 2015\Projects\Final smis\Final smis\obj\Debug\Final_smis.FindStudentName.resources
+D:\Project\Final smis\Final smis\bin\Debug\Final smis.exe.config
+D:\Project\Final smis\Final smis\bin\Debug\Final smis.exe
+D:\Project\Final smis\Final smis\bin\Debug\Final smis.pdb
+D:\Project\Final smis\Final smis\bin\Debug\MaterialSkin.dll
+D:\Project\Final smis\Final smis\bin\Debug\MySql.Data.dll
+D:\Project\Final smis\Final smis\obj\Debug\Final smis.csprojResolveAssemblyReference.cache
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.AboutSMIS.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.AddStudent.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.AddTeacher.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.EnterExam.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.FindStudentAdm.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.FindStudentName.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.main.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.ManageUsers.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.login.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.Manage_fees.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.ManageStudents.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.ManageTeachers.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.Properties.Resources.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.ViewTeacher.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final smis.csproj.GenerateResource.Cache
+D:\Project\Final smis\Final smis\obj\Debug\Final smis.exe
+D:\Project\Final smis\Final smis\obj\Debug\Final smis.pdb
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.AddUser.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.ComputeResults.resources
+D:\Project\Final smis\Final smis\obj\Debug\Final_smis.ViewExams.resources
